@@ -4,4 +4,4 @@ If len(list)  > 1:
    letf_half = list [:mid]
   right_half = list [:mid]
 mergeSort (left_half)
-
+mergeSort (right_half)

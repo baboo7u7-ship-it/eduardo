@@ -1,0 +1,7 @@
+Function mergesort (list) :
+If len(list)  > 1:
+   Mid = len(list)  // 2
+   letf_half = list [:mid]
+  right_half = list [:mid]
+mergeSort (left_half)
+
